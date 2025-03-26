@@ -1,0 +1,10 @@
+a {
+	color: $linkcolour;
+}
+
+a:hover {
+	color: $bgcolour;
+	background-color: $linkcolour;
+	text-decoration: none;
+	border-radius: 3px;
+}

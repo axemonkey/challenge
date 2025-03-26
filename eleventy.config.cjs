@@ -4,7 +4,7 @@ const markdownItAttrs = require('markdown-it-attrs');
 const markdownItAnchor = require('markdown-it-anchor');
 const markdownItFootNote = require('markdown-it-footnote');
 
-
+const siteTitle = 'Guitar Challenges, by the Fiasco Bros. EST 2025.';
 
 module.exports = function (eleventyConfig) {
 	const markdownLib = markdownIt({
@@ -24,6 +24,9 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPairedShortcode('markdown', (content) => {
 		return markdownLib.render(content);
 	});
+
+	eleventyConfig.addGlobalData('title', siteTitle);
+	eleventyConfig.addGlobalData('siteTitle', siteTitle);
 
 	eleventyConfig.addPassthroughCopy('src/public');
 	eleventyConfig.addPassthroughCopy({ 'src/robots.txt': '/robots.txt' });
