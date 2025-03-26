@@ -1,0 +1,39 @@
+body {
+	font-family: $main-font;
+}
+
+p,
+ul {
+	margin-bottom: 1em;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+
+li {
+	margin-bottom: 0.5em;
+}
+
+li:last-child {
+	margin-bottom: 0;
+}
+
+p,
+li,
+legend,
+label,
+input,
+textarea {
+	font-size: 1.5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: $headline-font;
+	margin-bottom: 1rem;
+}
