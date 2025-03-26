@@ -2,3 +2,13 @@ main {
 	max-width: 1200px;
 	margin: 2rem auto;
 }
+
+section {
+	padding-block: 2rem;
+	border-bottom: 1px solid $linecolour;
+}
+
+footer {
+	max-width: 1200px;
+	margin: auto;
+}
