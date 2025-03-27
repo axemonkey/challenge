@@ -35,6 +35,29 @@ h4,
 h5,
 h6 {
 	font-family: $headline-font;
+	font-weight: normal;
 	margin-bottom: 1rem;
 	margin-inline: $side-padding;
+}
+
+h1 {
+	font-style: italic;
+}
+
+h1 span {
+	font-family: $spanfont;
+	text-transform: uppercase;
+	font-size: 2rem;
+	font-style: normal;
+}
+
+h1 abbr {
+	font-variant-caps: all-small-caps;
+	text-decoration: none;
+}
+
+body.home {
+	h1 span {
+		font-size: 4rem;
+	}
 }
