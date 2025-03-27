@@ -15,6 +15,13 @@ nav {
 		li {
 			margin: 0;
 		}
+
+		li + li {
+			&::before {
+				content: "•";
+				padding-right: 1rem;
+			}
+		}
 	}
 
 	a {

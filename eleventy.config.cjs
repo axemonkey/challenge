@@ -5,7 +5,7 @@ const markdownItAnchor = require('markdown-it-anchor');
 const markdownItFootNote = require('markdown-it-footnote');
 
 const siteTitle = 'Guitar Challenges';
-const siteSubtitle = 'by the Fiasco Bros. EST 2025.';
+const siteSubtitle = 'by the Fiasco Bros. EST 1991.';
 
 module.exports = function (eleventyConfig) {
 	const markdownLib = markdownIt({
