@@ -7,9 +7,9 @@ bodyclass: page
 
 ## What's going on here, then?
 
-Far, far back in the mists of time[^nineties], the Fiasco Brothers were in a band. They were 17 at the time. Then, time passed, and they were no longer in a band. More time passed, and they were once again in a band. You get the picture.
+Far, far back in the mists of time, beyond the reach of mortal memory[^nineties], the Fiasco Brothers were in a band. They were 17 at the time. Then, time passed, and they were no longer in a band. More time passed, and they were once again in a band. You get the picture.
 
-Nowadays they are no longer even in the same country and while they still play, they have very few opportunities to jam any more. This makes them sad.
+Nowadays they are no longer even in the same country and while they do both still play guitar, they have very few opportunities to jam together any more. This makes them sad.
 
 But lo! A splendid idea was forged. Why not come up with semi-regular challenges to keep them playing, and maybe even uploading video evidence to that popular video sharing site? In a spirit not of competition, but of encouragement and comradeship.
 
@@ -21,9 +21,9 @@ And they saw that it was good.
 
 ## Who are the Fiasco Brothers?
 
-Cussons Fiasco was raised by wolves on the island of Lesbos in the mid 1700s. He learnt to play guitar by watching the sailors in the port, and eventually stowed away in a rum cask and fled to Britain where he became a web developer so that he could practice his legato runs in the evenings.
+**Cussons Fiasco** was raised by wolves on the island of Lesbos in the mid 1700s. He learnt to play guitar by watching the sailors in the port, and eventually stowed away in a rum cask and fled to Britain where he became a web developer so that he could practice his legato runs in the evenings. He is also, on occasion, known as [Clive Murray](https://clivemurray.com/).
 
-Less is known about Pearl Fiasco. Some say he is a descendant of Rhodri the Great, who was famous for his sweep-picking. Others believe Pearl to be the secret love-child of Brian Blessed and Joan of Arc, despite this being both unlikely *and* impossible. Whatever the case, he shreds to this day.
+Less is known about **Pearl Fiasco**. Some say he is a descendant of Rhodri the Great, who was famous for his sweep-picking. Others believe Pearl to be the secret love-child of Brian Blessed and Joan of Arc, despite this being both unlikely *and* impossible. Whatever the case, he shreds to this day.
 
 </section>
 

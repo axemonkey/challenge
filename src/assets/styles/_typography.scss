@@ -69,6 +69,11 @@ h2 {
 	font-variant-caps: small-caps;
 }
 
+h3 {
+	font-size: 2rem;
+	font-variant-caps: small-caps;
+}
+
 section {
 	h1,
 	h2,
@@ -83,5 +88,14 @@ section {
 body.home {
 	h1 a {
 		font-size: 4rem;
+	}
+}
+
+blockquote {
+	padding-left: 15px;
+	border-left: 3px double $linecolour;
+
+	p {
+		font-size: 1.25rem;
 	}
 }

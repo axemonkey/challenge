@@ -1,0 +1,11 @@
+@import "vars";
+
+.challenge-entries {
+	display: flex;
+	flex-direction: row;
+	gap: 1rem;
+}
+
+iframe + h3 {
+	margin-top: 1em;
+}
