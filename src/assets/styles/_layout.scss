@@ -11,6 +11,13 @@ section {
 	padding-inline: $side-padding;
 }
 
+hr.dots {
+	border: none;
+	border-top: 1px dotted #666;
+	margin-top: 2rem;
+	padding-bottom: 2rem;
+}
+
 footer {
 	width: 100%;
 	max-width: 1200px;
