@@ -8,6 +8,7 @@ main {
 section {
 	padding-block: 2rem;
 	border-bottom: 1px solid $linecolour;
+	padding-inline: $side-padding;
 }
 
 footer {
