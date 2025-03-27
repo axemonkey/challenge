@@ -56,6 +56,15 @@ h1 abbr {
 	text-decoration: none;
 }
 
+h2 {
+	font-size: 2rem;
+	font-variant-caps: small-caps;
+}
+
+section p {
+	margin-inline: $side-padding;
+}
+
 body.home {
 	h1 span {
 		font-size: 4rem;

@@ -1,0 +1,24 @@
+hr.footnotes-sep {
+	border: none;
+	border-bottom: 1px dotted $linecolour;
+}
+
+section.footnotes {
+	border: none;
+	padding-inline: $side-padding;
+	font-size: 1rem;
+
+	li {
+		margin-left: 15px;
+		font-size: 1rem;
+	}
+
+	p {
+		margin: 0;
+		font-size: 1rem;
+	}
+}
+
+.footnote-ref {
+	font-size: 1rem;
+}
