@@ -37,7 +37,11 @@ h6 {
 	font-family: $headline-font;
 	font-weight: normal;
 	margin-bottom: 1em;
-	margin-inline: $side-padding;
+	margin-inline: 10px;
+
+	@media (width > 600px) {
+		margin-inline: $side-padding;
+	}
 }
 
 h1 {

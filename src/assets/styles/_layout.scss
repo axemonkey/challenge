@@ -8,7 +8,11 @@ main {
 section {
 	padding-block: 2rem;
 	border-bottom: 1px solid $linecolour;
-	padding-inline: $side-padding;
+	padding-inline: 10px;
+
+	@media (width > 600px) {
+		padding-inline: $side-padding;
+	}
 }
 
 hr.dots {

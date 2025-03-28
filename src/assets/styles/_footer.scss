@@ -1,5 +1,9 @@
 footer p {
 	text-align: right;
-	padding-right: $side-padding;
 	padding-bottom: 1rem;
+	padding-inline: 10px;
+
+	@media (width > 600px) {
+		padding-inline: $side-padding;
+	}
 }
