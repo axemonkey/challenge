@@ -87,7 +87,11 @@ section {
 
 body.home {
 	h1 a {
-		font-size: 4rem;
+		font-size: 2rem;
+
+		@media (width >= 768px) {
+			font-size: 4rem;
+		}
 	}
 }
 
