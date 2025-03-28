@@ -23,9 +23,10 @@ And they saw that it was good.
 
 **Cussons Fiasco** was raised by wolves on the island of Lesbos in the mid 1700s. He learnt to play guitar by watching the sailors in the port, and eventually stowed away in a rum cask and fled to Britain where he became a web developer so that he could practice his legato runs in the evenings. He is also, on occasion, known as Clive Murray.
 
-Less is known about **Pearl Fiasco**. Some say he is a descendant of Rhodri the Great, who was famous for his sweep-picking. Others believe Pearl to be the secret love-child of Brian Blessed and Joan of Arc, despite this being both unlikely *and* impossible. Whatever the case, he shreds to this day.
+Less is known about **Pearl Fiasco**. Some say he is a descendant of Rhodri the Great, who was famous for his sweep-picking[^tidy]. Others believe Pearl to be the secret love-child of Brian Blessed and Joan of Arc, despite this being both unlikely *and* impossible. Whatever the case, he shreds to this day.
 
 </section>
 
 [^nineties]: The 1990s.
 [^weekly]: Ideally, weekly, but... you know. Life gets in the way. We shall see.
+[^tidy]: Tidy.
