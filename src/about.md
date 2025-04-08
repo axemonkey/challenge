@@ -27,6 +27,6 @@ Less is known about **Pearl Fiasco**. Some say he is a descendant of Rhodri the 
 
 </section>
 
-[^nineties]: The 1990s.
+[^nineties]: The early 1990s.
 [^weekly]: Ideally, weekly, but... you know. Life gets in the way. We shall see.
 [^tidy]: Tidy.
