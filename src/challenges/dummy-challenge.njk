@@ -1,0 +1,53 @@
+---
+layout: home.njk
+bodyclass: challenge
+---
+
+<section class="challenge challenge-intro">
+{% markdown %}
+## Month YEAR: "Song" by Artist
+
+* **The challenge**: Lorem ipsum intro.
+{% endmarkdown %}
+</section>
+
+<section class="challenge challenge-entries">
+  <div class="entry">
+    <h3>Player 1: Cussons Fiasco</h3>
+    <iframe src="https://www.youtube-nocookie.com/embed/Qlw10VxdcBE?si=Oa5G5dTBe8NA1BWL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h3>CF says:</h3>
+    <blockquote>
+{% markdown %}
+Lorem
+{% endmarkdown %}
+    </blockquote>
+  </div>
+
+  <div class="entry">
+    <h3>Player 2: Pearl Fiasco</h3>
+    <iframe src="https://www.youtube-nocookie.com/embed/DNVp63MhMOc?si=z7-9JxnALlEhia5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h3>PF says:</h3>
+    <blockquote>
+{% markdown %}
+Lorem
+{% endmarkdown %}
+    </blockquote>
+  </div>
+</section>
+
+<section class="challenge-comments">
+  <h2>Comments</h2>
+  <!-- Add a comment form -->
+
+  <script type="module" src="https://corsproxy.io/?url=http://51.155.197.58:7777/challenge/meh.esm.js"></script>
+
+  <meh-form>
+      <meh-mastodon></meh-mastodon>
+      <meh-login></meh-login>
+  </meh-form>
+  <meh-comments
+    backend="http://51.155.197.58:7777/"
+    site="challenge"
+    post="/challenges/dummy-challenge">
+  </meh-comments>
+</section>
