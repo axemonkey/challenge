@@ -6,11 +6,17 @@
 		border: none;
 		border-bottom: 1px solid var(--meh-default-foreground);
 		background-color: #f0f0f0;
+
+		&:focus {
+			outline: 1px solid var(--meh-default-foreground);
+		}
 	}
 
+	label,
 	input[type="text"],
 	input[type="email"],
 	input[type="url"] {
 		font-family: Cormorant, serif;
+		font-size: 1.25rem;
 	}
 }
