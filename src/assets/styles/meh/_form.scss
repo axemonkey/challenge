@@ -1,3 +1,5 @@
+@use "sass:color";
+
 $formElementBg: #f0f0f0;
 
 form {
@@ -19,7 +21,6 @@ form {
 	input[type="text"],
 	input[type="email"],
 	input[type="url"],
-	button,
 	textarea {
 		font-family: Cormorant, serif;
 		font-size: 1.25rem;
@@ -30,6 +31,12 @@ form {
 	}
 
 	button {
+		font-family: Cormorant, serif;
+		font-size: 1rem;
 		background-color: $formElementBg;
+
+		&:hover {
+			background-color: color.adjust($formElementBg, $lightness: -10%);
+		}
 	}
 }
