@@ -1,1 +1,1 @@
-input[type=text],textarea{border:none;border-bottom:1px solid var(--meh-default-foreground)}div.sort-options{margin-top:3em !important}
+input[type=text],input[type=email],input[type=url],textarea{border:none;border-bottom:1px solid var(--meh-default-foreground);background-color:#f0f0f0}div.sort-options{margin-top:3em !important}
