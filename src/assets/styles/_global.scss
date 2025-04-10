@@ -1,5 +1,15 @@
 @import "vars";
 
+:root {
+	--meh-default-accent: #ff6b6b;
+	--meh-default-background: #f8f9fa;
+	--meh-default-foreground: #212529;
+	--meh-default-spacing: 1.2rem;
+	--meh-default-border-radius: 4px;
+	--meh-default-success: #20c997;
+	--meh-default-error: #dc3545;
+}
+
 * {
 	margin: 0;
 	padding: 0;
