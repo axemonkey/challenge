@@ -1,13 +1,13 @@
 @import "vars";
 
 :root {
-	--meh-default-accent: #ff6b6b;
+	--meh-default-accent: #222;
 	--meh-default-background: #f8f9fa;
 	--meh-default-foreground: #212529;
 	--meh-default-spacing: 1.2rem;
-	--meh-default-border-radius: 4px;
-	--meh-default-success: #20c997;
-	--meh-default-error: #dc3545;
+	--meh-default-border-radius: 0px;
+	--meh-default-success: green;
+	--meh-default-error: darkred;
 }
 
 * {

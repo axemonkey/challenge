@@ -1,0 +1,7 @@
+.meh-form-container {
+	input[type="text"],
+	textarea {
+		border: none;
+		border-bottom: 1px solid var(--meh-default-foreground);
+	}
+}
