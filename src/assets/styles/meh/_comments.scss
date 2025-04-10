@@ -14,3 +14,9 @@ div.comment {
 		font-size: 1rem;
 	}
 }
+
+:host {
+	& div.sort-options {
+		font-size: 50px;
+	}
+}
