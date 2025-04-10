@@ -1,6 +1,9 @@
 div.sort-options {
 	margin-top: 3em !important;
-	font-size: 1.25rem;
+
+	& > * {
+		font-size: 1.25rem;
+	}
 }
 
 div.comment {
@@ -12,11 +15,5 @@ div.comment {
 
 	time {
 		font-size: 1rem;
-	}
-}
-
-:host {
-	& div.sort-options {
-		font-size: 50px;
 	}
 }
