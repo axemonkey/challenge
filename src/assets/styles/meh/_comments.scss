@@ -1,19 +1,21 @@
-div.sort-options {
-	margin-top: 3em !important;
+:host {
+	div.sort-options {
+		margin-top: 3em !important;
 
-	& > * {
+		& > * {
+			font-size: 1.25rem;
+		}
+	}
+
+	div.comment {
 		font-size: 1.25rem;
-	}
-}
 
-div.comment {
-	font-size: 1.25rem;
+		& > :last-child {
+			padding-bottom: 0.5rem;
+		}
 
-	& > :last-child {
-		padding-bottom: 0.5rem;
-	}
-
-	time {
-		font-size: 1rem;
+		time {
+			font-size: 1rem;
+		}
 	}
 }
