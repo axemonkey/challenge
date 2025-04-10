@@ -2,41 +2,43 @@
 
 $formElementBg: #f0f0f0;
 
-form {
-	input[type="text"],
-	input[type="email"],
-	input[type="url"],
-	textarea {
-		border: none;
-		border-bottom: 1px solid var(--meh-default-foreground);
-		background-color: $formElementBg;
-
-		&:focus {
-			outline: 1px solid var(--meh-default-foreground);
+:host {
+	form {
+		input[type="text"],
+		input[type="email"],
+		input[type="url"],
+		textarea {
 			border: none;
+			border-bottom: 1px solid var(--meh-default-foreground);
+			background-color: $formElementBg;
+
+			&:focus {
+				outline: 1px solid var(--meh-default-foreground);
+				border: none;
+			}
 		}
-	}
 
-	label,
-	input[type="text"],
-	input[type="email"],
-	input[type="url"],
-	textarea {
-		font-family: Cormorant, serif;
-		font-size: 1.25rem;
-	}
+		label,
+		input[type="text"],
+		input[type="email"],
+		input[type="url"],
+		textarea {
+			font-family: Cormorant, serif;
+			font-size: 1.25rem;
+		}
 
-	textarea {
-		font-family: MonaspaceXenon, monospace;
-	}
+		textarea {
+			font-family: MonaspaceXenon, monospace;
+		}
 
-	button {
-		font-family: Cormorant, serif;
-		font-size: 1rem;
-		background-color: $formElementBg;
+		button {
+			font-family: Cormorant, serif;
+			font-size: 1rem;
+			background-color: $formElementBg;
 
-		&:hover {
-			background-color: color.adjust($formElementBg, $lightness: -10%);
+			&:hover {
+				background-color: color.adjust($formElementBg, $lightness: -10%);
+			}
 		}
 	}
 }
