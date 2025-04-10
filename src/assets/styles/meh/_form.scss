@@ -1,3 +1,5 @@
+$formElementBg: #f0f0f0;
+
 .meh-form-container {
 	input[type="text"],
 	input[type="email"],
@@ -5,7 +7,7 @@
 	textarea {
 		border: none;
 		border-bottom: 1px solid var(--meh-default-foreground);
-		background-color: #f0f0f0;
+		background-color: $formElementBg;
 
 		&:focus {
 			outline: 1px solid var(--meh-default-foreground);
@@ -16,13 +18,18 @@
 	label,
 	input[type="text"],
 	input[type="email"],
-	input[type="url"] {
+	input[type="url"],
+	button,
+	textarea {
 		font-family: Cormorant, serif;
 		font-size: 1.25rem;
 	}
 
 	textarea {
 		font-family: MonaspaceXenon, monospace;
-		font-size: 1.25rem;
+	}
+
+	button {
+		background-color: $formElementBg;
 	}
 }

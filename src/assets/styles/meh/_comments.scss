@@ -1,3 +1,9 @@
 div.sort-options {
 	margin-top: 3em !important;
 }
+
+div.comment {
+	& > :last-child {
+		padding-bottom: 0.5rem;
+	}
+}
