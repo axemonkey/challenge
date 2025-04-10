@@ -9,6 +9,7 @@
 
 		&:focus {
 			outline: 1px solid var(--meh-default-foreground);
+			border: none;
 		}
 	}
 
@@ -22,6 +23,6 @@
 
 	textarea {
 		font-family: MonaspaceXenon, monospace;
-		font-size: 1.25em;
+		font-size: 1.25rem;
 	}
 }
