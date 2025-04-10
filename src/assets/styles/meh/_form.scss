@@ -1,8 +1,10 @@
-input[type="text"],
-input[type="email"],
-input[type="url"],
-textarea {
-	border: none;
-	border-bottom: 1px solid var(--meh-default-foreground);
-	background-color: #f0f0f0;
+.meh-form-container {
+	input[type="text"],
+	input[type="email"],
+	input[type="url"],
+	textarea {
+		border: none;
+		border-bottom: 1px solid var(--meh-default-foreground);
+		background-color: #f0f0f0;
+	}
 }
