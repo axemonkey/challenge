@@ -1,5 +1,6 @@
 div.sort-options {
 	margin-top: 3em !important;
+	font-size: 1.25rem;
 }
 
 div.comment {
@@ -7,5 +8,9 @@ div.comment {
 
 	& > :last-child {
 		padding-bottom: 0.5rem;
+	}
+
+	time {
+		font-size: 1rem;
 	}
 }
