@@ -24,4 +24,11 @@
 			font-size: 1rem;
 		}
 	}
+
+	div.no-comments {
+		font-size: 1.25rem;
+		margin-top: 2rem;
+		padding-block: 2rem;
+		border-top: 1px solid var(--meh-default-foreground);
+	}
 }
