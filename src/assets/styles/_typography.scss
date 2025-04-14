@@ -43,6 +43,10 @@ h6 {
 	@media (width > 600px) {
 		margin-inline: $side-padding;
 	}
+
+	&.alone {
+		margin-block: 3rem;
+	}
 }
 
 h1 {
