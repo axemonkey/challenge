@@ -21,6 +21,8 @@ And they saw that it was good.
 
 ## Who are the Fiasco Brothers?
 
+![Two photos of guitars being played, spliced diagonally together into one image](/public/images/split.jpg){.about-img}
+
 **Cussons Fiasco** was raised by wolves on the island of Kefalonia in the mid 1700s. He learnt to play guitar by watching the sailors in the port, and eventually stowed away in a rum cask and fled to Britain where he became a web developer so that he could practice his legato runs in the evenings. He is also, on occasion, known as Clive Murray.
 
 Less is known about **Pearl Fiasco**. Some say he is a descendant of Rhodri the Great, who was famous for his sweep-picking[^tidy]. Others believe Pearl to be the secret love-child of Brian Blessed and Joan of Arc, despite this being both unlikely *and* impossible. Whatever the case, he shreds to this day.

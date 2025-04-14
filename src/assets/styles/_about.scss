@@ -1,0 +1,10 @@
+.about-img {
+	margin: 1rem auto;
+	max-width: 600px;
+	width: 100%;
+	border-radius: 2px;
+}
+
+p:has(.about-img) {
+	text-align: center;
+}
