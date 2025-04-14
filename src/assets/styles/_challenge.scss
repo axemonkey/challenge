@@ -38,8 +38,30 @@
 iframe {
 	width: 100%;
 	aspect-ratio: 560 / 315;
+	border-radius: 3px;
 }
 
 iframe + h3 {
 	margin-top: 1em;
+}
+
+.entry-awaiting {
+	p {
+		width: 100%;
+		aspect-ratio: 560 / 315;
+		background-image: url("/public/images/awaiting-entry.jpg");
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center center;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		font-variant-caps: small-caps;
+		font-size: 2rem;
+
+		@media (width >= 768px) {
+			font-size: 3rem;
+		}
+	}
 }
