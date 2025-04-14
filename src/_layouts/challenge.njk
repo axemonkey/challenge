@@ -5,4 +5,6 @@ bodyclass: challenge
 
 {{ content | safe }}
 
+{% if not nocomments %}
 {% include "comments.njk" %}
+{% endif %}
