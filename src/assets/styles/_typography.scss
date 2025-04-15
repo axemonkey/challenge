@@ -2,6 +2,10 @@ body {
 	font-family: $main-font;
 }
 
+p {
+	line-height: 1.5;
+}
+
 p,
 ul {
 	margin-bottom: 1em;
@@ -120,4 +124,10 @@ blockquote {
 p.comments-credit {
 	font-size: 1.2rem;
 	text-align: right;
+}
+
+section.about {
+	p:first-of-type::first-letter {
+		@include firstletter;
+	}
 }

@@ -17,11 +17,17 @@ Something like "Hey, I reckon I can still play 'Circles' by Satriani. Did you ev
 
 And they saw that it was good.
 
----{.dots}
+</section>
+
+<section class="about">
 
 ## Who are the Fiasco Brothers?
 
+<figure>
+
 ![Two photos of guitars being played, spliced diagonally together into one image](/public/images/split.jpg){.about-img}
+
+</figure>
 
 **Cussons Fiasco** was raised by wolves on the island of Kefalonia in the mid 1700s. He learnt to play guitar by watching the sailors in the port, and eventually stowed away in a rum cask and fled to Britain where he became a web developer so that he could practice his legato runs in the evenings. He is also, on occasion, known as Clive Murray.
 

@@ -5,4 +5,8 @@
 				no-repeat,
 			url("/public/images/sketch-2.png") right top / 200px 200px no-repeat;
 	}
+
+	p.lede::first-letter {
+		@include firstletter;
+	}
 }
