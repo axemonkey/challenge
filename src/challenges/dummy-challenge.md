@@ -16,7 +16,7 @@ bodyclass: challenge
 
 ### Player 1
 
-awaiting entry
+dummy
 
 </div>
 
@@ -24,7 +24,7 @@ awaiting entry
 
 ### Player 2
 
-awaiting entry
+dummy
 
 </div>
 </section>
