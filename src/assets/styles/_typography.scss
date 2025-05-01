@@ -92,6 +92,10 @@ p.lede {
 	font-size: 2.25rem;
 }
 
+.challenge-intro li strong:first-of-type {
+	font-variant-caps: small-caps;
+}
+
 section {
 	h1,
 	h2,
@@ -114,10 +118,19 @@ body.home {
 }
 
 blockquote {
-	padding-left: 15px;
+	padding-left: 1rem;
 	border-left: 3px double $linecolour;
 
-	p {
+	ul {
+		padding-left: 1rem;
+	}
+
+	li {
+		margin-bottom: 5px;
+	}
+
+	p,
+	li {
 		font-size: 1.25rem;
 	}
 }
