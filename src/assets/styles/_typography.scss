@@ -133,6 +133,10 @@ blockquote {
 	li {
 		font-size: 1.25rem;
 	}
+
+	p:first-of-type::first-letter {
+		@include firstletter;
+	}
 }
 
 p.comments-credit {

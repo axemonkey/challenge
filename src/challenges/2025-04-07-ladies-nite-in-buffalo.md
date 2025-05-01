@@ -20,7 +20,7 @@ bodyclass: challenge
 
 ### PF says:
 
-> Eat 'em And Smile is probably my favourite Vai, and this is one of his best. I've been playing it (wrong) for decades, so finally decided to sit down and get it as close as I can.
+> **Eat 'Em and Smile** is probably my favourite Vai, and this is one of his best. I've been playing it (wrong) for decades, so finally decided to sit down and get it as close as I can.
 
 </div>
 
