@@ -16,7 +16,7 @@ bodyclass: challenge
 
 ### Player 1: Cussons Fiasco
 
-<iframe src="https://www.youtube-nocookie.com/embed/Qlw10VxdcBE?si=Oa5G5dTBe8NA1BWL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img class="dummyIframe" src="/public/images/awaiting-entry.jpg">
 
 ### CF says:
 
@@ -34,7 +34,7 @@ bodyclass: challenge
 
 ### Player 2: Pearl Fiasco
 
-<iframe src="https://www.youtube-nocookie.com/embed/DNVp63MhMOc?si=z7-9JxnALlEhia5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img class="dummyIframe" src="/public/images/awaiting-entry.jpg">
 
 ### PF says:
 
