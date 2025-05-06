@@ -14,7 +14,7 @@ bodyclass: challenge
 <section class="challenge challenge-entries">
 <div class="entry entry-cf">
 
-### Player 1: Vimeo
+### Player 1: Cussons Fiasco
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1081783129?h=9255ac47f1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="bark at the moon v5 720"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -36,7 +36,7 @@ bodyclass: challenge
 
 ### Player 2: Dailymotion
 
-<div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.4583%;"><iframe src="//iframely.net/gXSUaZb" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="autoplay *; encrypted-media *; fullscreen *; picture-in-picture *; web-share *;"></iframe></div></div>
+<img class="dummyIframe" src="/public/images/awaiting-entry.jpg">
 
 ### PF says:
 
