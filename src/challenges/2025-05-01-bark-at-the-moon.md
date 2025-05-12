@@ -27,6 +27,8 @@ bodyclass: challenge
 > Huge props to [Uncle Ben Eller](https://www.youtube.com/BenEllerGuitars) for [his awesome lesson on how to play this song more better](https://www.youtube.com/watch?v=2qgBegbqSAo), and also to [Mark McGuigan at Master the Guitar](https://mastertheguitar.co.uk/) for [some extra finessing on the solo](https://www.youtube.com/watch?v=HYeJBZFEe24).
 >
 > Production note: the stems we had for this song removed (almost) all the guitar from the recording, which meant that the solos were just kinda floating around with no rhythm guitar behind them, which is wrong. Jake recorded a rhythm track and a lead track over the top. I recorded the rhythm parts on an extra track to fix this, but what you see in the video is one continuous take.
+>
+> Also, YouTube blocked this video on copyright grounds, which is why it is on Vimeo. 🤷‍♀️
 
 </div>
 
