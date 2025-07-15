@@ -35,6 +35,24 @@ Less is known about **Pearl Fiasco**. Some say he is a descendant of Rhodri the 
 
 </section>
 
+<section class="about">
+
+## Are they real brothers?
+
+Well no, but they *are* real guitarists and they *are* really playing this stuff, warts and all. You will find mistakes, imperfect takes, and even occasionally bits that are just outright played wrong.
+
+They may not be perfect, but at least they're not [faking it](https://www.youtube.com/watch?v=Jqyt2fk7aNw) either. The Fiasco Brothers will never lie to you.
+
+</section>
+
+<section class="about">
+
+## What's with the names?
+
+You sure do ask a lot of questions! Once upon a time they both worked in a soap factory, and they weren't very good at it. You should be able to join the dots from there.
+
+</section>
+
 [^nineties]: The early 1990s.
 [^weekly]: Ideally, weekly, but... you know. Life gets in the way. We shall see.
 [^tidy]: Tidy.

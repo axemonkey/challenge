@@ -5,7 +5,7 @@ bodyclass: challenge
 
 <section class="challenge challenge-intro">
 
-## May 2025: "Bark at the Moon" by Ozzy Osbourne
+## XXX 2025: "Bark at the Moon" by Ozzy Osbourne
 
 * **The challenge**: Jake E. Lee's magnificent octopus, "[Bark at the Moon](https://song.link/gb/i/192826926)", has been required reading for metal guitarists for around forty years. The Brothers must try to get the whole thing down in one go.
 
