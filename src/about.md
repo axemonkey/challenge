@@ -39,9 +39,7 @@ Less is known about **Pearl Fiasco**. Some say he is a descendant of Rhodri the 
 
 ## Are they real brothers?
 
-Well no, but they *are* real guitarists and they *are* really playing this stuff, warts and all. You will find mistakes, imperfect takes, and even occasionally bits that are just outright played wrong.
-
-They may not be perfect, but at least they're not [faking it](https://www.youtube.com/watch?v=Jqyt2fk7aNw) either. The Fiasco Brothers will never lie to you.
+Well no, but they *are* real guitarists and they *are* really playing this stuff, warts and all. You will find mistakes, imperfect takes, and even occasionally bits that are just outright played wrong. The Fiasco Brothers apologise for any discomfort this may cause. They may not be perfect, but at least they're not [faking it](https://www.youtube.com/watch?v=Jqyt2fk7aNw) either. The Fiasco Brothers will never lie to you.
 
 </section>
 
