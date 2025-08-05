@@ -16,7 +16,7 @@ bodyclass: challenge
 
 ### Player 1: Cussons Fiasco
 
-<iframe src="https://player.vimeo.com/video/1081783129?h=9255ac47f1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Bark at the Moon"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Playthrough of &quot;Bark at the Moon&quot; by Ozzy Osbourne" width="100%" height="100%" src="https://makertube.net/videos/embed/wyHPBGnBLzhJsdH19gcqGr" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
 
 ### CF says:{.entry-copy-header}
 
@@ -27,8 +27,6 @@ bodyclass: challenge
 > Huge props to [Uncle Ben Eller](https://www.youtube.com/BenEllerGuitars) for [his awesome lesson on how to play this song more better](https://www.youtube.com/watch?v=2qgBegbqSAo), and also to [Mark McGuigan at Master the Guitar](https://mastertheguitar.co.uk/) for [some extra finessing on the solo](https://www.youtube.com/watch?v=HYeJBZFEe24).
 >
 > Production note: the stems we had for this song removed (almost) all the guitar from the recording, which meant that the solos were just kinda floating around with no rhythm guitar behind them, which is wrong. Jake recorded a rhythm track and a lead track over the top. I recorded the rhythm parts on an extra track to fix this, but what you see in the video is one continuous take.
->
-> Also, YouTube blocked this video on copyright grounds, which is why it is on Vimeo. 🤷‍♀️
 
 </div>
 
