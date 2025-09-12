@@ -45,7 +45,7 @@ h6 {
 	margin-bottom: 1em;
 	margin-inline: 10px;
 
-	@media (width > 600px) {
+	@media (min-width: 600px) {
 		margin-inline: $side-padding;
 	}
 
@@ -111,7 +111,7 @@ body.home {
 	h1 a {
 		font-size: 2rem;
 
-		@media (width >= 768px) {
+		@media (min-width: 768px) {
 			font-size: 4rem;
 		}
 	}

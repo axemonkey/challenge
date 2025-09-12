@@ -10,7 +10,7 @@ section {
 	border-bottom: 1px solid $linecolour;
 	padding-inline: 10px;
 
-	@media (width > 600px) {
+	@media (min-width: 600px) {
 		padding-inline: $side-padding;
 	}
 }
