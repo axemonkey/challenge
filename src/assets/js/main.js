@@ -1,6 +1,6 @@
 const init = () => {
-	document.body.classList.add("js");
-	console.log("JS loaded");
+	document.body.classList.add('js');
+	console.log('JS loaded');
 };
 
-window.addEventListener("load", init);
+window.addEventListener('load', init);
