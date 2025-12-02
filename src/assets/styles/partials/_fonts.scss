@@ -1,28 +1,28 @@
-// Cormorant
+// Cormorant Infant
 @font-face {
-	font-family: "Cormorant";
-	src: url("/public/fonts/Cormorant-Regular.woff2") format("woff2");
+	font-family: "CormorantInfant";
+	src: url("/public/fonts/CormorantInfant-Regular.woff2") format("woff2");
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: "Cormorant";
-	src: url("/public/fonts/Cormorant-Bold.woff2") format("woff2");
+	font-family: "CormorantInfant";
+	src: url("/public/fonts/CormorantInfant-Bold.woff2") format("woff2");
 	font-weight: bold;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: "Cormorant";
-	src: url("/public/fonts/Cormorant-Italic.woff2") format("woff2");
+	font-family: "CormorantInfant";
+	src: url("/public/fonts/CormorantInfant-Italic.woff2") format("woff2");
 	font-weight: normal;
 	font-style: italic;
 }
 
 @font-face {
-	font-family: "Cormorant";
-	src: url("/public/fonts/Cormorant-BoldItalic.woff2") format("woff2");
+	font-family: "CormorantInfant";
+	src: url("/public/fonts/CormorantInfant-BoldItalic.woff2") format("woff2");
 	font-weight: bold;
 	font-style: italic;
 }
@@ -49,4 +49,36 @@
 	src: url("/public/fonts/MonaspaceXenonVarVF.woff2") format("woff2");
 	font-weight: normal;
 	font-style: normal;
+}
+
+// BarlowCondensed
+@font-face {
+	font-family: "BarlowCondensed";
+	src: url("/public/fonts/barlowcondensed-light-webfont.woff2") format("woff2");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "BarlowCondensed";
+	src: url("/public/fonts/barlowcondensed-lightitalic-webfont.woff2")
+		format("woff2");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "BarlowCondensed";
+	src: url("/public/fonts/barlowcondensed-semibold-webfont.woff2")
+		format("woff2");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "BarlowCondensed";
+	src: url("/public/fonts/barlowcondensed-semibolditalic-webfont.woff2")
+		format("woff2");
+	font-weight: bold;
+	font-style: italic;
 }
