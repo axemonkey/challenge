@@ -1,6 +1,6 @@
 // Cormorant Infant
 @font-face {
-	font-family: "CormorantInfant";
+	font-family: "CormorantInfant"; // by Catharsis Fonts - https: //www.myfonts.com/collections/catharsis-fonts-foundry
 	src: url("/public/fonts/CormorantInfant-Regular.woff2") format("woff2");
 	font-weight: normal;
 	font-style: normal;
@@ -27,17 +27,9 @@
 	font-style: italic;
 }
 
-// Oswald
-@font-face {
-	font-family: "OswaldLight";
-	src: url("/public/fonts/Oswald-Light.woff2") format("woff2");
-	font-weight: normal;
-	font-style: normal;
-}
-
 // Rye
 @font-face {
-	font-family: "Rye";
+	font-family: "Rye"; // by Nicole Fally - https://www.fontsquirrel.com/fonts/list/foundry/nicole-fally
 	src: url("/public/fonts/Rye-Regular.woff2") format("woff2");
 	font-weight: normal;
 	font-style: normal;
@@ -45,7 +37,7 @@
 
 // MonaspaceXenon
 @font-face {
-	font-family: "MonaspaceXenon";
+	font-family: "MonaspaceXenon"; // by GitHub - https://github.com/githubnext/monaspace#monaspace
 	src: url("/public/fonts/MonaspaceXenonVarVF.woff2") format("woff2");
 	font-weight: normal;
 	font-style: normal;
@@ -53,7 +45,7 @@
 
 // BarlowCondensed
 @font-face {
-	font-family: "BarlowCondensed";
+	font-family: "BarlowCondensed"; // by Jeremy Tribby - https://tribby.com/fonts/barlow/
 	src: url("/public/fonts/barlowcondensed-light-webfont.woff2") format("woff2");
 	font-weight: normal;
 	font-style: normal;
