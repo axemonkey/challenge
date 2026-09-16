@@ -12,6 +12,10 @@
 				{
 					"source": "src/assets/fonts",
 					"destination": "src/public/fonts"
+				},
+				{
+					"source": "src/assets/files",
+					"destination": "src/public/files"
 				}
 			],
 			"watchPatterns": ["src/assets/fonts/**/*", "src/assets/images/**/*"]

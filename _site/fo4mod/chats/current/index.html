@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>FO4 mod external brain - index</title>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-type" content="text/html;charset=utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="generator" content="Eleventy v3.1.6">
+
+	<link rel="stylesheet" type="text/css" href="/public/css/style-97ba801.css">
+
+	<link rel="icon" href="/public/images/favicon/apple-touch-icon.png" type="image/x-icon">
+	<link rel="shortcut icon" href="/public/images/favicon/apple-touch-icon.png" type="image/x-icon">
+</head>
+
+<body class="fo4">
+
+	
+<main>
+
+  <p>Ahhh. <strong>Now I see the actual problem.</strong></p>
+<p>Yes — that could work <em>extremely</em> well as a workaround for the lack of persistent conversation context.</p>
+<p>You could essentially create a little <strong>external project archive</strong> for us. Instead of pasting the ever-growing history every time, you’d give me the URL to the relevant index/archive, and I could read it at the beginning of a session and reconstruct where we are.</p>
+<p>The important distinction is that <strong>“not publicly advertised” isn’t the same as private</strong>. If the pages are publicly accessible, anyone who discovers the URL can potentially read them. So I would avoid putting anything genuinely sensitive there. But for your Fallout project—assuming there’s nothing confidential in it—that may be perfectly reasonable.</p>
+<p>And there’s an interesting way we could make this much more useful than simply dumping raw chat transcripts online.</p>
+<h3 id="we-could-give-the-archive-a-structure" tabindex="-1">We could give the archive a structure</h3>
+<p>For example:</p>
+<pre><code>/project/
+    index.html
+
+    /canon/
+        world-and-premise.html
+        companion.html
+        preceding-mod.html
+        chronology.html
+
+    /story/
+        main-arc.html
+        companion-arc.html
+        quests.html
+
+    /dialogue/
+        preceding-mod-transcript.html
+        companion-dialogue.html
+
+    /development/
+        design-decisions.html
+        technical-notes.html
+        todo.html
+        unresolved.html
+
+    /sessions/
+        2026-09-16.html
+        2026-09-17.html
+</code></pre>
+<p>Then the <strong>index page becomes the table of contents and “state of the project.”</strong></p>
+<p>At the start of a future conversation, you could just say something like:</p>
+<blockquote>
+<p>“Chat, we’re continuing the Fallout companion project. Here’s the project archive: [URL]. Read the index and relevant material, then let’s continue.”</p>
+</blockquote>
+<p>I’d search/read the pages, establish the current state, and we could carry on without you having to paste the entire history.</p>
+<h3 id="and-there%E2%80%99s-an-even-better-trick" tabindex="-1">And there’s an even better trick</h3>
+<p>We don’t necessarily need to preserve <strong>every conversation verbatim as the primary source</strong>.</p>
+<p>After a session, we could maintain a compact document along the lines of:</p>
+<p><strong>PROJECT STATE — 16 September 2026</strong></p>
+<ul>
+<li>What is established canon</li>
+<li>What was decided today</li>
+<li>Character state</li>
+<li>Story state</li>
+<li>Technical decisions</li>
+<li>Open questions</li>
+<li>Things explicitly rejected</li>
+<li>Next tasks</li>
+<li>Links to detailed source material</li>
+</ul>
+<p>Then the 15,000-word transcript can remain available as <strong>source material</strong>, while the project-state document tells future-me what actually matters.</p>
+<p>That turns your problem from:</p>
+<blockquote>
+<p>“Every session requires me to transfer the entire accumulated brain dump.”</p>
+</blockquote>
+<p>into:</p>
+<blockquote>
+<p>“Every session requires ChatGPT to read the project’s current state and consult the archive when necessary.”</p>
+</blockquote>
+<p>Which is a <strong>massive</strong> difference.</p>
+<p>And because you control the web space, you could even keep the raw transcripts completely untouched while we maintain a separate, deliberately curated layer of <em>canonical project knowledge</em> on top of them.</p>
+<p>Honestly, for the particular situation you’ve described, <strong>I think this is a genuinely workable system</strong>.</p>
+<p>And don’t worry about doing any of that right now. You’ve still got the 15,000-word monster to feed me. 😂</p>
+
+
+</main>
+
+
+	<script type="module" src="/public/js/main-280dfbd.js"></script>
+</body>
+
+</html>
