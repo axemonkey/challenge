@@ -1,0 +1,21 @@
+table {
+	margin: 1em;
+}
+
+td,
+th {
+	padding: 0.25em;
+}
+
+thead {
+	td,
+	th {
+		background-color: #ccc;
+	}
+}
+
+tbody {
+	tr:nth-child(2n-1) td {
+		background-color: #eee;
+	}
+}
