@@ -5,7 +5,7 @@ bodyclass: fo4
 
 # FO4 mod external brain
 
-Chat, I will need some help organising this page as I am tired, but not today. The important bits to get here right now are the two versions of the chat from earlier today (16/09/2026) and the dialogue of As the World Burns. Oh, and the chat we're currently having. Here are those things. Read the below, and let me know if this plan (see current chat) is going to work.
+Chat, I will need some help organising this page as at the time of writing, I am knackered. The important bits to get here right now are the two versions of the chat from earlier today (16/09/2026) and the dialogue of "As the World Burns". Oh, and the chat we're currently having. Here are those things. Read the below, and let me know if this plan (see "final chat of the day" below) is going to work. I will organise this semi-coherently another day.
 
 ---
 
@@ -17,9 +17,9 @@ I'm making a companion mod for Fallout 4. The main character will be called West
 
 ## Source material
 
-1. [chat from earlier today, version one](/fo4mod/chats/initial-chat-v1/)
-2. [chat from earlier today, version two](/fo4mod/chats/initial-chat-v2/)
-3. [the chat we're having right now which led me to create this site](/fo4mod/chats/current)
+1. [chat from earlier 16/09/2026, version one](/fo4mod/chats/initial-chat-v1/)
+2. [chat from later 16/09/2026, version two](/fo4mod/chats/initial-chat-v2/)
+3. [final chat of the day, leading to teh creation of this minisite](/fo4mod/chats/current)
 4. the big kahuna... [the entire dialogue of "As the World Burns"](/public/files/atwb.pdf)
 
 ---

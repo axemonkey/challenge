@@ -1,0 +1,31 @@
+main {
+	width: 100%;
+	max-width: 1200px;
+	margin: 2rem auto;
+	padding-inline: 1em;
+	flex: 1 1 auto;
+}
+
+section {
+	padding-block: 3rem;
+	border-bottom: 1px solid $linecolour;
+	padding-inline: 10px;
+
+	@media (min-width: 600px) {
+		padding-inline: $side-padding;
+	}
+}
+
+hr {
+	border: none;
+	border-top: 1px dotted #666;
+	margin-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+footer {
+	width: 100%;
+	max-width: 1200px;
+	margin: auto;
+	flex: 0 1 auto;
+}

@@ -10,5 +10,8 @@
   },
   "main": {
     "js": "main-280dfbd.js"
+  },
+  "fo4mod": {
+    "css": "fo4mod-9ee804b.css"
   }
 }
